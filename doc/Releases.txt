@@ -1,0 +1,19 @@
+Version 3.1
+	Document details support language identification in all server environments.
+Version 3.0
+	Port to Java 8 Uima 2.7 for Wex 11
+Version 2.0 $Revision: 156 $
+	Port to Java 7, UIMA 2.5 for WCA 3.5
+Version 1.4 Revision: 131 
+	Added support for sentence, paragraph and lemma types in primitive extract. Java 6, UIMA 2.4.2, ICA 3.
+Version 1.3.1 Revision: 125 
+	Fixed bug where existence of requested type was not checked in extractAFSList() and extractPrimitiveAFSList()
+	Added docDate member to DocumentDetails
+Version 1.3 Revision: 117 
+	Added getConfigurationValue() to CASUtils.
+Version 1.2 Revision: 88
+    Added new set primitive feature methods.
+Version 1.1
+    Brought under svn
+Version 1.0
+    Initial
